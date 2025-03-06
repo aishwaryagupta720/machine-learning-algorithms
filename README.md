@@ -98,11 +98,3 @@ Implements PCA using eigen decomposition on the Iris dataset to reduce dimension
 
 📂 **Directory:** `pca/`
 
----
-
-## 🛠️ Setup & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/ML-Algorithms-from-Scratch.git
-   cd ML-Algorithms-from-Scratch
-
